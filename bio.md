@@ -6,7 +6,7 @@ step 10. more basic info
 step 5. Header: 
 ###Programming Background
 
-step 8. 
+step 8:
 
 commit 1:  I don't have much background
 
