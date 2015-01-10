@@ -5,4 +5,6 @@
 -5. Header: Programming Background
 
 -8. commit 1:  I don't have much background
-   commit 2:  Fixed spelling error
+   commit 2:  Fixed spelling error 
+
+Adding with vim 
